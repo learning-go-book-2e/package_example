@@ -1,3 +1,3 @@
-module "github.com/learning-go-book/package_example"
+module github.com/learning-go-book-2e/package_example
 
-go 1.15
+go 1.19
